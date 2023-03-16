@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private var builder = StringBuilder(13).append('(')
 
-
     private val requestPermissionLauncher : ActivityResultLauncher<String>
             = registerForActivityResult(
         ActivityResultContracts.
