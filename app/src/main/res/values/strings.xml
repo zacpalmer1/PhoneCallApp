@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Phone Call</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="star">*</string>
+    <string name="_0">0</string>
+    <string name="hash">#</string>
+    <string name="call">+</string>
+    <string name="back">-</string>
+    <string name="c">C</string>
+    <string name="permission_denied_title">access denied</string>
+    <string name="permission_denied_msg">access denied</string>
+    <string name="ok">accepted</string>
+    <string name="permission_request_title">requesting permission</string>
+    <string name="permission_request_msg">request</string>
+    <string name="yes">accepted</string>
+    <string name="no">denied</string>
+    <string name="clear_button">clear button</string>
+    <string name="call_button">call button</string>
+    <string name="option_button">option button</string>
+</resources>
