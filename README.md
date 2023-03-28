@@ -13,6 +13,7 @@ There should be one activity/screen described as follows:
 2. There should be button below the phone EditText field labeled “Make Call”. When the user clicks on the button and the phone number field is not empty, the application should attempt to call the number listed. You should perform some error checking here.
 
 ## Above and Beyond:
+All changes made were approved by the professor before submission
 ### Improved UI
 - Insead of allowing the user access to keyboard through EditText, I created a grid of buttons that are mapped to numbers to more closely resemble a phone application
 - Implamented a simple color scheme
