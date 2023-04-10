@@ -1,4 +1,6 @@
 # PhoneCallApp
+<img width="200" alt="Screenshot 2023-03-16 at 7 32 32 PM" src="https://user-images.githubusercontent.com/75393933/230906296-20eecc96-dc01-4fad-9f76-08534edf60c9.png">
+
 ## How to use this application
 - This application is not in the Google Play Store
 - To run this project you must download the files above and simulate in Android Studio
